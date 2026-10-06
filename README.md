@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>I'm a **final-year Computer Science Engineering student** with a strong interest in **Data Analytics and Data Engineering**.<br><br>I enjoy working with data to discover insights, build dashboards, automate processes, and develop reliable data pipelines. I'm currently expanding my knowledge of **Databricks, Snowflake, Microsoft Fabric, ETL/ELT, and Data Warehousing**.<br><br>I like learning by building real-world projects and continuously improving my skills across **Python, SQL, Excel, Power BI, Machine Learning, and modern data platforms**.<br><br>🚀 **My goal:** To build practical, scalable, and data-driven solutions while growing as a **Data Analyst and Data Engineer**.
 
 
