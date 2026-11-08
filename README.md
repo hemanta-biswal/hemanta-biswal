@@ -1,5 +1,14 @@
+## 👨‍💻 About Me
 
-## 👨‍💻 About Me<br><br>I'm a **final-year Computer Science Engineering student** with a strong interest in **Data Analytics and Data Engineering**.<br><br>I enjoy working with data to discover insights, build dashboards, automate processes, and develop reliable data pipelines. I'm currently expanding my knowledge of **Databricks, Snowflake, Microsoft Fabric, ETL/ELT, and Data Warehousing**.<br><br>I like learning by building real-world projects and continuously improving my skills across **Python, SQL, Excel, Power BI, Machine Learning, and modern data platforms**.<br><br>🚀 **My goal:** To build practical, scalable, and data-driven solutions while growing as a **Data Analyst and Data Engineer**.
+I'm a **final-year Computer Science Engineering student** with a strong interest in **Flutter Development and Data Analytics**.
+
+I enjoy building interactive, user-friendly mobile applications and working with data to discover insights, create meaningful visualizations, and solve real-world problems.
+
+I'm continuously expanding my knowledge of **Flutter, Dart, Firebase, Python, SQL, Excel, and Power BI**.
+
+I enjoy learning by building real-world projects, exploring new technologies, solving problems, and improving my technical skills.
+
+🚀 **My goal:** To grow as a **Flutter Developer and Data Analyst**, creating innovative mobile applications and data-driven solutions that make a meaningful impact.
 
 
 ## 🌐 Socials:
