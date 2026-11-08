@@ -1,14 +1,12 @@
 ## 👨‍💻 About Me
 
-I'm a **final-year Computer Science Engineering student** with a strong interest in **Flutter Development and Data Analytics**.
+I'm a **final-year Computer Science Engineering student** with a strong interest in **Flutter Development and Mobile App Development**.
 
-I enjoy building interactive, user-friendly mobile applications and working with data to discover insights, create meaningful visualizations, and solve real-world problems.
+I enjoy building interactive, user-friendly, and visually appealing mobile applications. I'm currently expanding my knowledge of **Flutter, Dart, Firebase, and UI/UX design**.
 
-I'm continuously expanding my knowledge of **Flutter, Dart, Firebase, Python, SQL, Excel, and Power BI**.
+I like learning by building real-world projects and continuously improving my development skills. I'm passionate about exploring new technologies, solving problems, and creating applications that provide meaningful user experiences.
 
-I enjoy learning by building real-world projects, exploring new technologies, solving problems, and improving my technical skills.
-
-🚀 **My goal:** To grow as a **Flutter Developer and Data Analyst**, creating innovative mobile applications and data-driven solutions that make a meaningful impact.
+🚀 **My goal:** To become a skilled **Flutter Developer** and build innovative, efficient, and scalable mobile applications.
 
 
 ## 🌐 Socials:
